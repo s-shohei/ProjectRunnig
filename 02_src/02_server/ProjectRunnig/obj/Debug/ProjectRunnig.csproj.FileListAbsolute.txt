@@ -1,0 +1,11 @@
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\bin\Debug\ProjectRunnig.exe.config
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\bin\Debug\ProjectRunnig.exe
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\bin\Debug\ProjectRunnig.pdb
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\bin\Debug\ServerSynchro.dll
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\bin\Debug\ServerSynchro.pdb
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\obj\Debug\ProjectRunnig.csprojResolveAssemblyReference.cache
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\obj\Debug\ProjectRunnig.Properties.Resources.resources
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\obj\Debug\ProjectRunnig.csproj.GenerateResource.Cache
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\obj\Debug\ProjectRunnig.exe
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\obj\Debug\ProjectRunnig.pdb
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ProjectRunnig\obj\Debug\ProjectRunnig.Form1.resources

@@ -1,0 +1,5 @@
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ServerSynchro\bin\Debug\ServerSynchro.dll
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ServerSynchro\bin\Debug\ServerSynchro.pdb
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ServerSynchro\obj\Debug\ServerSynchro.csprojResolveAssemblyReference.cache
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ServerSynchro\obj\Debug\ServerSynchro.dll
+c:\users\acd-shimotsumagari\documents\visual studio 2015\Projects\ProjectSolution\ServerSynchro\obj\Debug\ServerSynchro.pdb
